@@ -1,0 +1,11 @@
+F:\asp.netProject\DSproblem\DSproblem\bin\Debug\netcoreapp2.1\DSproblem.deps.json
+F:\asp.netProject\DSproblem\DSproblem\bin\Debug\netcoreapp2.1\DSproblem.runtimeconfig.json
+F:\asp.netProject\DSproblem\DSproblem\bin\Debug\netcoreapp2.1\DSproblem.runtimeconfig.dev.json
+F:\asp.netProject\DSproblem\DSproblem\bin\Debug\netcoreapp2.1\DSproblem.dll
+F:\asp.netProject\DSproblem\DSproblem\bin\Debug\netcoreapp2.1\DSproblem.pdb
+F:\asp.netProject\DSproblem\DSproblem\obj\Debug\netcoreapp2.1\DSproblem.csprojAssemblyReference.cache
+F:\asp.netProject\DSproblem\DSproblem\obj\Debug\netcoreapp2.1\DSproblem.csproj.CoreCompileInputs.cache
+F:\asp.netProject\DSproblem\DSproblem\obj\Debug\netcoreapp2.1\DSproblem.AssemblyInfoInputs.cache
+F:\asp.netProject\DSproblem\DSproblem\obj\Debug\netcoreapp2.1\DSproblem.AssemblyInfo.cs
+F:\asp.netProject\DSproblem\DSproblem\obj\Debug\netcoreapp2.1\DSproblem.dll
+F:\asp.netProject\DSproblem\DSproblem\obj\Debug\netcoreapp2.1\DSproblem.pdb

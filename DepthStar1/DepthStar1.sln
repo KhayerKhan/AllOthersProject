@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthStar1", "DepthStar1\DepthStar1.csproj", "{AD836B85-0C57-4D13-8F69-FACC0BB03DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthStar1.Tests", "DepthStar1.Tests\DepthStar1.Tests.csproj", "{2A5FCFEB-44DF-4B2B-902F-7919C0B33C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD836B85-0C57-4D13-8F69-FACC0BB03DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD836B85-0C57-4D13-8F69-FACC0BB03DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD836B85-0C57-4D13-8F69-FACC0BB03DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD836B85-0C57-4D13-8F69-FACC0BB03DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5FCFEB-44DF-4B2B-902F-7919C0B33C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5FCFEB-44DF-4B2B-902F-7919C0B33C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5FCFEB-44DF-4B2B-902F-7919C0B33C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5FCFEB-44DF-4B2B-902F-7919C0B33C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E695B5F6-0D1D-446E-987E-A8AC90450C6F}
+	EndGlobalSection
+EndGlobal

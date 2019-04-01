@@ -1,0 +1,9 @@
+F:\asp.netProject\DepthStar1\DepthStar1\bin\Debug\netstandard2.0\DepthStar1.deps.json
+F:\asp.netProject\DepthStar1\DepthStar1\bin\Debug\netstandard2.0\DepthStar1.dll
+F:\asp.netProject\DepthStar1\DepthStar1\bin\Debug\netstandard2.0\DepthStar1.pdb
+F:\asp.netProject\DepthStar1\DepthStar1\obj\Debug\netstandard2.0\DepthStar1.csprojAssemblyReference.cache
+F:\asp.netProject\DepthStar1\DepthStar1\obj\Debug\netstandard2.0\DepthStar1.csproj.CoreCompileInputs.cache
+F:\asp.netProject\DepthStar1\DepthStar1\obj\Debug\netstandard2.0\DepthStar1.AssemblyInfoInputs.cache
+F:\asp.netProject\DepthStar1\DepthStar1\obj\Debug\netstandard2.0\DepthStar1.AssemblyInfo.cs
+F:\asp.netProject\DepthStar1\DepthStar1\obj\Debug\netstandard2.0\DepthStar1.dll
+F:\asp.netProject\DepthStar1\DepthStar1\obj\Debug\netstandard2.0\DepthStar1.pdb

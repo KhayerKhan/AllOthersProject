@@ -1,0 +1,11 @@
+F:\asp.netProject\GenericPractice\GenericPractice\bin\Debug\netcoreapp2.2\GenericPractice.deps.json
+F:\asp.netProject\GenericPractice\GenericPractice\bin\Debug\netcoreapp2.2\GenericPractice.runtimeconfig.json
+F:\asp.netProject\GenericPractice\GenericPractice\bin\Debug\netcoreapp2.2\GenericPractice.runtimeconfig.dev.json
+F:\asp.netProject\GenericPractice\GenericPractice\bin\Debug\netcoreapp2.2\GenericPractice.dll
+F:\asp.netProject\GenericPractice\GenericPractice\bin\Debug\netcoreapp2.2\GenericPractice.pdb
+F:\asp.netProject\GenericPractice\GenericPractice\obj\Debug\netcoreapp2.2\GenericPractice.csprojAssemblyReference.cache
+F:\asp.netProject\GenericPractice\GenericPractice\obj\Debug\netcoreapp2.2\GenericPractice.csproj.CoreCompileInputs.cache
+F:\asp.netProject\GenericPractice\GenericPractice\obj\Debug\netcoreapp2.2\GenericPractice.AssemblyInfoInputs.cache
+F:\asp.netProject\GenericPractice\GenericPractice\obj\Debug\netcoreapp2.2\GenericPractice.AssemblyInfo.cs
+F:\asp.netProject\GenericPractice\GenericPractice\obj\Debug\netcoreapp2.2\GenericPractice.dll
+F:\asp.netProject\GenericPractice\GenericPractice\obj\Debug\netcoreapp2.2\GenericPractice.pdb

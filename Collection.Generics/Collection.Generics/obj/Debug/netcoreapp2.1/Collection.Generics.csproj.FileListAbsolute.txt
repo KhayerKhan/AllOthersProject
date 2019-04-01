@@ -1,0 +1,10 @@
+F:\asp.netProject\Collection.Generics\Collection.Generics\bin\Debug\netcoreapp2.1\Collection.Generics.deps.json
+F:\asp.netProject\Collection.Generics\Collection.Generics\bin\Debug\netcoreapp2.1\Collection.Generics.runtimeconfig.json
+F:\asp.netProject\Collection.Generics\Collection.Generics\bin\Debug\netcoreapp2.1\Collection.Generics.runtimeconfig.dev.json
+F:\asp.netProject\Collection.Generics\Collection.Generics\bin\Debug\netcoreapp2.1\Collection.Generics.dll
+F:\asp.netProject\Collection.Generics\Collection.Generics\bin\Debug\netcoreapp2.1\Collection.Generics.pdb
+F:\asp.netProject\Collection.Generics\Collection.Generics\obj\Debug\netcoreapp2.1\Collection.Generics.csproj.CoreCompileInputs.cache
+F:\asp.netProject\Collection.Generics\Collection.Generics\obj\Debug\netcoreapp2.1\Collection.Generics.AssemblyInfoInputs.cache
+F:\asp.netProject\Collection.Generics\Collection.Generics\obj\Debug\netcoreapp2.1\Collection.Generics.AssemblyInfo.cs
+F:\asp.netProject\Collection.Generics\Collection.Generics\obj\Debug\netcoreapp2.1\Collection.Generics.dll
+F:\asp.netProject\Collection.Generics\Collection.Generics\obj\Debug\netcoreapp2.1\Collection.Generics.pdb

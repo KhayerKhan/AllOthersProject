@@ -1,0 +1,11 @@
+F:\asp.netProject\practiceArry\practiceArry\bin\Debug\netcoreapp2.1\practiceArry.deps.json
+F:\asp.netProject\practiceArry\practiceArry\bin\Debug\netcoreapp2.1\practiceArry.runtimeconfig.json
+F:\asp.netProject\practiceArry\practiceArry\bin\Debug\netcoreapp2.1\practiceArry.runtimeconfig.dev.json
+F:\asp.netProject\practiceArry\practiceArry\bin\Debug\netcoreapp2.1\practiceArry.dll
+F:\asp.netProject\practiceArry\practiceArry\bin\Debug\netcoreapp2.1\practiceArry.pdb
+F:\asp.netProject\practiceArry\practiceArry\obj\Debug\netcoreapp2.1\practiceArry.csprojAssemblyReference.cache
+F:\asp.netProject\practiceArry\practiceArry\obj\Debug\netcoreapp2.1\practiceArry.csproj.CoreCompileInputs.cache
+F:\asp.netProject\practiceArry\practiceArry\obj\Debug\netcoreapp2.1\practiceArry.AssemblyInfoInputs.cache
+F:\asp.netProject\practiceArry\practiceArry\obj\Debug\netcoreapp2.1\practiceArry.AssemblyInfo.cs
+F:\asp.netProject\practiceArry\practiceArry\obj\Debug\netcoreapp2.1\practiceArry.dll
+F:\asp.netProject\practiceArry\practiceArry\obj\Debug\netcoreapp2.1\practiceArry.pdb

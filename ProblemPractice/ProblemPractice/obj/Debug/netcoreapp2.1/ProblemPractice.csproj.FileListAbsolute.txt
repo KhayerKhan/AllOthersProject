@@ -1,0 +1,11 @@
+F:\asp.netProject\ProblemPractice\ProblemPractice\bin\Debug\netcoreapp2.1\ProblemPractice.deps.json
+F:\asp.netProject\ProblemPractice\ProblemPractice\bin\Debug\netcoreapp2.1\ProblemPractice.runtimeconfig.json
+F:\asp.netProject\ProblemPractice\ProblemPractice\bin\Debug\netcoreapp2.1\ProblemPractice.runtimeconfig.dev.json
+F:\asp.netProject\ProblemPractice\ProblemPractice\bin\Debug\netcoreapp2.1\ProblemPractice.dll
+F:\asp.netProject\ProblemPractice\ProblemPractice\bin\Debug\netcoreapp2.1\ProblemPractice.pdb
+F:\asp.netProject\ProblemPractice\ProblemPractice\obj\Debug\netcoreapp2.1\ProblemPractice.csprojAssemblyReference.cache
+F:\asp.netProject\ProblemPractice\ProblemPractice\obj\Debug\netcoreapp2.1\ProblemPractice.csproj.CoreCompileInputs.cache
+F:\asp.netProject\ProblemPractice\ProblemPractice\obj\Debug\netcoreapp2.1\ProblemPractice.AssemblyInfoInputs.cache
+F:\asp.netProject\ProblemPractice\ProblemPractice\obj\Debug\netcoreapp2.1\ProblemPractice.AssemblyInfo.cs
+F:\asp.netProject\ProblemPractice\ProblemPractice\obj\Debug\netcoreapp2.1\ProblemPractice.dll
+F:\asp.netProject\ProblemPractice\ProblemPractice\obj\Debug\netcoreapp2.1\ProblemPractice.pdb

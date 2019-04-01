@@ -1,0 +1,17 @@
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\bin\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.deps.json
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\bin\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.runtimeconfig.json
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\bin\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.runtimeconfig.dev.json
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\bin\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.dll
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\obj\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.csprojAssemblyReference.cache
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\obj\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.csproj.CoreCompileInputs.cache
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\obj\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.AssemblyInfoInputs.cache
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\obj\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.AssemblyInfo.cs
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\bin\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.pdb
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\bin\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.dll
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\bin\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.pdb
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\obj\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.csproj.CopyComplete
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\obj\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.dll
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine.Tests\obj\Debug\netcoreapp2.2\DevSkill.ProjectDeathStar.BattleEngine.Tests.pdb

@@ -1,0 +1,11 @@
+F:\asp.netProject\OOPPractice\OOPPractice\bin\Debug\netcoreapp2.1\OOPPractice.deps.json
+F:\asp.netProject\OOPPractice\OOPPractice\bin\Debug\netcoreapp2.1\OOPPractice.runtimeconfig.json
+F:\asp.netProject\OOPPractice\OOPPractice\bin\Debug\netcoreapp2.1\OOPPractice.runtimeconfig.dev.json
+F:\asp.netProject\OOPPractice\OOPPractice\bin\Debug\netcoreapp2.1\OOPPractice.dll
+F:\asp.netProject\OOPPractice\OOPPractice\bin\Debug\netcoreapp2.1\OOPPractice.pdb
+F:\asp.netProject\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.1\OOPPractice.csproj.CoreCompileInputs.cache
+F:\asp.netProject\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.1\OOPPractice.AssemblyInfoInputs.cache
+F:\asp.netProject\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.1\OOPPractice.AssemblyInfo.cs
+F:\asp.netProject\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.1\OOPPractice.dll
+F:\asp.netProject\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.1\OOPPractice.pdb
+F:\asp.netProject\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.1\OOPPractice.csprojAssemblyReference.cache

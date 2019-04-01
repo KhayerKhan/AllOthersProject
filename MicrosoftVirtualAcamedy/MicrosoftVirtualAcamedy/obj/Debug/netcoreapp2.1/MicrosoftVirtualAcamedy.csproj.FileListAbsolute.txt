@@ -1,0 +1,11 @@
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\bin\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.deps.json
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\bin\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.runtimeconfig.json
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\bin\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.runtimeconfig.dev.json
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\bin\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.dll
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\bin\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.pdb
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\obj\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.csprojAssemblyReference.cache
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\obj\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.csproj.CoreCompileInputs.cache
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\obj\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.AssemblyInfoInputs.cache
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\obj\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.AssemblyInfo.cs
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\obj\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.dll
+F:\asp.netProject\MicrosoftVirtualAcamedy\MicrosoftVirtualAcamedy\obj\Debug\netcoreapp2.1\MicrosoftVirtualAcamedy.pdb

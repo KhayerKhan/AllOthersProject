@@ -1,0 +1,11 @@
+F:\asp.netProject\Fiter\Fiter\bin\Debug\netcoreapp2.1\Fiter.deps.json
+F:\asp.netProject\Fiter\Fiter\bin\Debug\netcoreapp2.1\Fiter.runtimeconfig.json
+F:\asp.netProject\Fiter\Fiter\bin\Debug\netcoreapp2.1\Fiter.runtimeconfig.dev.json
+F:\asp.netProject\Fiter\Fiter\bin\Debug\netcoreapp2.1\Fiter.dll
+F:\asp.netProject\Fiter\Fiter\bin\Debug\netcoreapp2.1\Fiter.pdb
+F:\asp.netProject\Fiter\Fiter\obj\Debug\netcoreapp2.1\Fiter.csprojAssemblyReference.cache
+F:\asp.netProject\Fiter\Fiter\obj\Debug\netcoreapp2.1\Fiter.csproj.CoreCompileInputs.cache
+F:\asp.netProject\Fiter\Fiter\obj\Debug\netcoreapp2.1\Fiter.AssemblyInfoInputs.cache
+F:\asp.netProject\Fiter\Fiter\obj\Debug\netcoreapp2.1\Fiter.AssemblyInfo.cs
+F:\asp.netProject\Fiter\Fiter\obj\Debug\netcoreapp2.1\Fiter.dll
+F:\asp.netProject\Fiter\Fiter\obj\Debug\netcoreapp2.1\Fiter.pdb

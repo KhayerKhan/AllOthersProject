@@ -1,0 +1,15 @@
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\bin\Debug\netcoreapp2.1\DepthStar1.Tests.deps.json
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\bin\Debug\netcoreapp2.1\DepthStar1.Tests.runtimeconfig.json
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\bin\Debug\netcoreapp2.1\DepthStar1.Tests.runtimeconfig.dev.json
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\bin\Debug\netcoreapp2.1\DepthStar1.Tests.dll
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\obj\Debug\netcoreapp2.1\DepthStar1.Tests.csprojAssemblyReference.cache
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\obj\Debug\netcoreapp2.1\DepthStar1.Tests.csproj.CoreCompileInputs.cache
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\obj\Debug\netcoreapp2.1\DepthStar1.Tests.AssemblyInfoInputs.cache
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\obj\Debug\netcoreapp2.1\DepthStar1.Tests.AssemblyInfo.cs
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\bin\Debug\netcoreapp2.1\DepthStar1.Tests.pdb
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\obj\Debug\netcoreapp2.1\DepthStar1.Tests.dll
+F:\asp.netProject\DepthStar1\DepthStar1.Tests\obj\Debug\netcoreapp2.1\DepthStar1.Tests.pdb

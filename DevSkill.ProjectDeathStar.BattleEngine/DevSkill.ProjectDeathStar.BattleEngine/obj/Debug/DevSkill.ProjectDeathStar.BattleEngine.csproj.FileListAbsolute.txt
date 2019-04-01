@@ -1,0 +1,6 @@
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine\bin\Debug\DevSkill.ProjectDeathStar.BattleEngine.dll
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine\bin\Debug\DevSkill.ProjectDeathStar.BattleEngine.pdb
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine\obj\Debug\DevSkill.ProjectDeathStar.BattleEngine.csprojAssemblyReference.cache
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine\obj\Debug\DevSkill.ProjectDeathStar.BattleEngine.csproj.CoreCompileInputs.cache
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine\obj\Debug\DevSkill.ProjectDeathStar.BattleEngine.dll
+F:\asp.netProject\DevSkill.ProjectDeathStar.BattleEngine\DevSkill.ProjectDeathStar.BattleEngine\obj\Debug\DevSkill.ProjectDeathStar.BattleEngine.pdb

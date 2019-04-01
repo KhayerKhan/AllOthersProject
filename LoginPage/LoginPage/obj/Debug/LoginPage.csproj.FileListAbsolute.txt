@@ -1,0 +1,13 @@
+F:\asp.netProject\LoginPage\LoginPage\bin\Debug\LoginPage.exe.config
+F:\asp.netProject\LoginPage\LoginPage\bin\Debug\LoginPage.exe
+F:\asp.netProject\LoginPage\LoginPage\bin\Debug\LoginPage.pdb
+F:\asp.netProject\LoginPage\LoginPage\obj\Debug\LoginPage.csprojAssemblyReference.cache
+F:\asp.netProject\LoginPage\LoginPage\obj\Debug\LoginPage.Form1.resources
+F:\asp.netProject\LoginPage\LoginPage\obj\Debug\LoginPage.Main.resources
+F:\asp.netProject\LoginPage\LoginPage\obj\Debug\LoginPage.Properties.Resources.resources
+F:\asp.netProject\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.GenerateResource.cache
+F:\asp.netProject\LoginPage\LoginPage\obj\Debug\LoginPage.csproj.CoreCompileInputs.cache
+F:\asp.netProject\LoginPage\LoginPage\obj\Debug\LoginPage.exe
+F:\asp.netProject\LoginPage\LoginPage\obj\Debug\LoginPage.pdb
+F:\asp.netProject\LoginPage\LoginPage\bin\Debug\Database1.mdf
+F:\asp.netProject\LoginPage\LoginPage\bin\Debug\Database1_log.ldf

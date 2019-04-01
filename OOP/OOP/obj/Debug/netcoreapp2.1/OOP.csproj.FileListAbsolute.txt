@@ -1,0 +1,11 @@
+F:\asp.netProject\OOP\OOP\bin\Debug\netcoreapp2.1\OOP.deps.json
+F:\asp.netProject\OOP\OOP\bin\Debug\netcoreapp2.1\OOP.runtimeconfig.json
+F:\asp.netProject\OOP\OOP\bin\Debug\netcoreapp2.1\OOP.runtimeconfig.dev.json
+F:\asp.netProject\OOP\OOP\bin\Debug\netcoreapp2.1\OOP.dll
+F:\asp.netProject\OOP\OOP\bin\Debug\netcoreapp2.1\OOP.pdb
+F:\asp.netProject\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.csprojAssemblyReference.cache
+F:\asp.netProject\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.csproj.CoreCompileInputs.cache
+F:\asp.netProject\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.AssemblyInfoInputs.cache
+F:\asp.netProject\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.AssemblyInfo.cs
+F:\asp.netProject\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.dll
+F:\asp.netProject\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.pdb

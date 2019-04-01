@@ -1,0 +1,11 @@
+F:\asp.netProject\MVA1\MVA1\bin\Debug\netcoreapp2.1\MVA1.deps.json
+F:\asp.netProject\MVA1\MVA1\bin\Debug\netcoreapp2.1\MVA1.runtimeconfig.json
+F:\asp.netProject\MVA1\MVA1\bin\Debug\netcoreapp2.1\MVA1.runtimeconfig.dev.json
+F:\asp.netProject\MVA1\MVA1\bin\Debug\netcoreapp2.1\MVA1.dll
+F:\asp.netProject\MVA1\MVA1\bin\Debug\netcoreapp2.1\MVA1.pdb
+F:\asp.netProject\MVA1\MVA1\obj\Debug\netcoreapp2.1\MVA1.csprojAssemblyReference.cache
+F:\asp.netProject\MVA1\MVA1\obj\Debug\netcoreapp2.1\MVA1.csproj.CoreCompileInputs.cache
+F:\asp.netProject\MVA1\MVA1\obj\Debug\netcoreapp2.1\MVA1.AssemblyInfoInputs.cache
+F:\asp.netProject\MVA1\MVA1\obj\Debug\netcoreapp2.1\MVA1.AssemblyInfo.cs
+F:\asp.netProject\MVA1\MVA1\obj\Debug\netcoreapp2.1\MVA1.dll
+F:\asp.netProject\MVA1\MVA1\obj\Debug\netcoreapp2.1\MVA1.pdb
